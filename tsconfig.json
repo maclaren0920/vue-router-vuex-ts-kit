@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "lib": [
+        "dom",
+        "es2015"
+      ],
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "experimentalDecorators": true,
+      "strict": true,
+      "suppressImplicitAnyIndexErrors": true,
+      "removeComments": true
+    },
+    "include": [
+      "./**/*.ts"
+    ],
+    "compileOnSave": false
+  }
+  
