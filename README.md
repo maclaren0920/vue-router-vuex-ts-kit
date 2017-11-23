@@ -1,4 +1,4 @@
-## vue-router-vuex-ts-kit
+# vue-router-vuex-ts-kit
 
 > 用typescript和class的形式来编写你的vue组件
 
